@@ -1,0 +1,8 @@
+{
+  "name": "Remix Orin CDN",
+  "description": "Global HLS Origin-to-Edge live streaming delivery console, adaptive bitrate monitor, and edge cache inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
